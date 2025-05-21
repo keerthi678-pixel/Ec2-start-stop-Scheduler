@@ -14,7 +14,6 @@ Automate starting and stopping EC2 instances in a given region and on a schedule
 2. Trusted Entity: Choose Lambda
 3. Attach Policies:
     - Search and attach: **AmazonEC2FullAccess**
-    - *(For production, consider a custom policy with only required permissions.)*
 4. Name it: `LambdaEC2SchedulerRole`
 5. Click **Create Role**
 
@@ -102,5 +101,3 @@ You can test manually from Lambda:
 - Add logging and error handling to your Lambda code for easier debugging and monitoring.
 
 ---
-
-Let me know if you want further customization or if you have additional documentation to review!
