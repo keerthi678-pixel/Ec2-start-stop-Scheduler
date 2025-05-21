@@ -35,6 +35,7 @@ Step 2:  Step 2: Create the Lambda Function
 Step 3:  Step 3: Add Code to Lambda
 
          Click Deploy to save
+         
 
  Step 4: Create EventBridge Rule (Scheduler)
  
