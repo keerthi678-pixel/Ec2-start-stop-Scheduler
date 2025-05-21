@@ -1,5 +1,3 @@
-Here is a corrected and improved version of your README instructions, addressing formatting, clarity, and minor issues:
-
 ---
 
 # Ec2-start-stop-Scheduler
