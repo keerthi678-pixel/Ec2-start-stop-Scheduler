@@ -31,7 +31,7 @@ Automate starting and stopping EC2 instances in a given region and on a schedule
 
 ## Step 3: Add Code to Lambda
 
-1. Add your Lambda code (see [lambda_function.py](lambda_function.py) or insert your logic).
+1. Add your Lambda code (see [lambda_function.py](lambda_function.py)).
 2. Click **Deploy** to save.
 
 ---
